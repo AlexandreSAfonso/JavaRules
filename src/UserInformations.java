@@ -11,7 +11,6 @@ public class UserInformations {
 
         valor = scanner.nextInt();
         System.out.println(valor +10);
-
 /*
         Double doubleValor = scanner.nextDouble();
         Float floatValor = scanner.nextFloat();
@@ -20,7 +19,7 @@ public class UserInformations {
         Integer intValor = scanner.nextInt();
         Byte bytevalor = scanner.nextByte();
         Boolean boolvalor = scanner.hasNextBoolean()
-
+        String stringvalor = scanner.nextLine()
  */
     }
 }
