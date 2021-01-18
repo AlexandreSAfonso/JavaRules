@@ -16,7 +16,7 @@ public class TiposPrimitivos {
          * Boolean  = boolean
          * Character= char
          *
-         * O String não tem tipo primitivo 
+         * O String não tem tipo primitivo
          * */
 
     }
