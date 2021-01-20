@@ -12,4 +12,10 @@ public class Funcoes {
     private Integer soma(int a, int b){
         return a + b;
     }
+
+    private void stringStydy(){
+        String str = "Curso de Javva";
+
+        str.charAt(0);
+    }
 }
