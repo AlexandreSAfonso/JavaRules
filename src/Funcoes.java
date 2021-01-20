@@ -13,9 +13,14 @@ public class Funcoes {
         return a + b;
     }
 
-    private void stringStydy(){
-        String str = "Curso de Javva";
-
-        str.charAt(0);
+    private void stringStudy(){
+        try{
+            String str = "Curso de Javva";
+            str.charAt(0);
+        } catch (Exception e){
+            System.out.println(e);
+        } finally{
+            //executa um código independente se houve erro ou foi tudo normal, como fechar um arquivo aberto pelo protrama.
+        }
     }
 }
